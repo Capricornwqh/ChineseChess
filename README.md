@@ -25,3 +25,11 @@ ChineseChess是用Go语言实现的中国象棋。
 [用Go写一个中国象棋（十一）| 象棋AI进阶--wqh博客](https://wangqianhong.com/2020/11/%e7%94%a8go%e5%86%99%e4%b8%80%e4%b8%aa%e4%b8%ad%e5%9b%bd%e8%b1%a1%e6%a3%8b%ef%bc%88%e5%8d%81%e4%b8%80%ef%bc%89-%e8%b1%a1%e6%a3%8bai%e8%bf%9b%e9%98%b6/)
 
 [用Go写一个中国象棋（十二）| 象棋AI进阶--wqh博客](https://wangqianhong.com/2020/11/%e7%94%a8go%e5%86%99%e4%b8%80%e4%b8%aa%e4%b8%ad%e5%9b%bd%e8%b1%a1%e6%a3%8b%ef%bc%88%e5%8d%81%e4%ba%8c%ef%bc%89-%e8%b1%a1%e6%a3%8bai%e8%bf%9b%e9%98%b6/)
+
+[用Go写一个中国象棋（十三）| 象棋AI进阶--wqh博客](https://wangqianhong.com/2020/11/%e7%94%a8go%e5%86%99%e4%b8%80%e4%b8%aa%e4%b8%ad%e5%9b%bd%e8%b1%a1%e6%a3%8b%ef%bc%88%e5%8d%81%e4%b8%89%ef%bc%89-%e8%b1%a1%e6%a3%8bai%e8%bf%9b%e9%98%b6/)
+
+[用Go写一个中国象棋（十四）| 象棋AI进阶--wqh博客](https://wangqianhong.com/2020/11/%e7%94%a8go%e5%86%99%e4%b8%80%e4%b8%aa%e4%b8%ad%e5%9b%bd%e8%b1%a1%e6%a3%8b%ef%bc%88%e5%8d%81%e5%9b%9b%ef%bc%89-%e8%b1%a1%e6%a3%8bai%e8%bf%9b%e9%98%b6/)
+
+[用Go写一个中国象棋（十五）| 置换表--wqh博客](https://wangqianhong.com/2020/11/%e7%94%a8go%e5%86%99%e4%b8%80%e4%b8%aa%e4%b8%ad%e5%9b%bd%e8%b1%a1%e6%a3%8b%ef%bc%88%e5%8d%81%e4%ba%94%ef%bc%89-%e7%bd%ae%e6%8d%a2%e8%a1%a8/)
+
+[用Go写一个中国象棋（十六）| 置换表--wqh博客](https://wangqianhong.com/2020/11/%e7%94%a8go%e5%86%99%e4%b8%80%e4%b8%aa%e4%b8%ad%e5%9b%bd%e8%b1%a1%e6%a3%8b%ef%bc%88%e5%8d%81%e5%85%ad%ef%bc%89-%e7%bd%ae%e6%8d%a2%e8%a1%a8/)
